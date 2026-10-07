@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated / sample artifacts
+sample_emails*.xlsx
+*_validated.xlsx
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
